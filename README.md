@@ -1,6 +1,7 @@
 # N1---2B---IDS-Intrusion-Detection-System-
 
-Explicação Geral do Código
+EXPLICAÇÃO GERAL DO CÓDIGO:
+
 Esse código é um exemplo de detecção de ataques SYN flood, que ocorre quando um cliente envia múltiplos pacotes SYN para o servidor para tentar sobrecarregar o sistema.
 
 Configuração do socket: Captura pacotes TCP com um socket bruto (raw socket).
